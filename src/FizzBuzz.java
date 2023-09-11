@@ -31,4 +31,10 @@ class FizzBuzz {
             }
         }
     }
+
+    public static void main() {
+    }
+
+    public static void doFizzBuzz(int i) {
+    }
 }
